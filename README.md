@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Calinpop
-- 👀 I’m interested in ...Python and Cloud 
-- 🌱 I’m currently learning ...Cloud and Python 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...here on github
+- 👋 Hi, I’m Calin
+- 👀 I’m interested in ...Python, Django and Clodu
+- 🌱 I’m currently learning ... Python, Django 
+
 
 
 <!---
