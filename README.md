@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Calin
-- 👀 I’m interested in ...Python, Django and Clodu
+- 👀 I’m interested in ...Python, Django and Cloud
 - 🌱 I’m currently learning ... Python, Django 
 
 
